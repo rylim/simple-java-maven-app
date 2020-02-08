@@ -14,3 +14,8 @@ buildNumber.properties
 
 .idea
 my-app.iml
+**/.classpath
+**/.project
+**/*.prefs
+**/*.class
+**/settings.json
